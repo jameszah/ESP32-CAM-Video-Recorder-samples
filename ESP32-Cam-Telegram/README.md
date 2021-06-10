@@ -13,3 +13,7 @@ https://github.com/jameszah/ESP32-CAM-Video-Recorder-samples/blob/master/ESP32-C
 The file uploaded to Youtube - now converted to Youtube's formats:  
 https://youtu.be/x4JaLOefIWA
 
+Demonstrating the slow motion.<br>
+
+[![Click to see on Youtube](http://img.youtube.com/vi/KBXaL-kRRFI/hqdefault.jpg)](http://www.youtube.com/watch?v=KBXaL-kRRFI "Robin from Youtube")
+
