@@ -1,12 +1,9 @@
 
 <img src="./magpie.jpg">
-<img src="./DoorCam 2021-06-03 14.47.52.avi">
-<video src="./DoorCam 2021-06-03 14.47.52.avi">
 
+
+https://github.com/jameszah/ESP32-CAM-Video-Recorder-samples/blob/master/ESP32-Cam-Telegram/DoorCam%202021-06-03%2014.47.52.avi
+  
+  
 https://youtu.be/x4JaLOefIWA
 
-<vid src="https://youtu.be/x4JaLOefIWA">
-
-  <video controls="true" allowfullscreen="true" poster="./magpie.jpg">
-    <source src="./DoorCam 2021-06-03 14.47.52.avi" type="video/avi">
-  </video>
